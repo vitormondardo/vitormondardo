@@ -14,7 +14,6 @@ Tenho grande interesse em transformar lógica em soluções práticas, seja atra
 
 * 🎓 **Acadêmico:** Desenvolvendo TCC sobre a influência de conteúdos verticais no comportamento do consumidor.
 * 💻 **Foco Atual:** Criação de Landing Pages, automações e projetos em Java (Spring Boot/Vaadin), HTML, CSS e JavaScript (Angular) e SQL.
-* 🐕 **Hobby:** Entusiasta de personalização automotiva e dono orgulhoso de um Pastor Alemão e três gatos.
 
 ---
 
