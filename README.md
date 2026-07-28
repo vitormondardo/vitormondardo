@@ -21,9 +21,9 @@
 
 Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligência da **Engenharia de Dados**. Arquiteto de software focado em criar ecossistemas escaláveis que transformam dados brutos em decisões estratégicas.
 
-* 🎓 **Acadêmico:** Pesquisador sobre a influência de algoritmos de retenção vertical (TikTok/Reels) no consumo, utilizando **Machine Learning & Python**.
-* 🛠️ **Foco Atual:** Arquiteturas distribuídas, Automações Inteligentes (Agentes IA) e modernização de stacks legadas para Cloud.
-* 🚀 **Mondardev:** Criando landing pages de alta conversão e automações personalizadas para negócios.
+* 🎓 **Formação:** Bacharelado em Sistemas de Informação.
+* 🛠️ **Foco Atual:** Arquiteturas de Software, Automações Inteligentes (Agentes IA) e stacks para Cloud.
+* 🚀 **Oberfritz:** Minha empresa de automações e soluções digitais que resolvem problemas reais de empreendedores.
 
 ---
 
