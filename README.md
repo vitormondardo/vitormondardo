@@ -21,8 +21,8 @@
 
 Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligência da **Engenharia de Dados**. Arquiteto de software focado em criar ecossistemas escaláveis que transformam dados brutos em decisões estratégicas.
 
-* 🎓 **Formação:** Bacharelado em Sistemas de Informação.
-* 🛠️ **Foco Atual:** Arquiteturas de Software, Automações Inteligentes (Agentes IA) e stacks para Cloud.
+* 🎓 **Bacharelado em Sistemas de Informação**
+* 🛠️ ** Arquiteturas de Software, Automações Inteligentes (Agentes IA) e stacks para Cloud**
 * 🚀 **Oberfritz:** Minha empresa de automações e soluções digitais que resolvem problemas reais de empreendedores.
 
 ---
@@ -48,7 +48,7 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
     <td width="50%">
       <h3 align="center">☁️ Infrastructure & Tools</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,netlify,vercel&theme=dark&perline=4" alt="Infrastructure Tools">
+        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,netlify,vercel&theme=dark&perline=4" alt="Infrastructure Tools">
       </p>
     </td>
     <td width="50%">
@@ -58,6 +58,16 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
         <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
         <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex">
         <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" align="center">
+      <h3 align="center">🌩️ Cloud Providers</h3>
+      <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+        <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS">
+        <img src="https://img.shields.io/badge/-Oracle-1D232A?style=for-the-badge&logo=oracle&logoColor=F80000" height="48" alt="Oracle Cloud" style="border-radius: 10px;">
+        <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure">
       </p>
     </td>
   </tr>
@@ -111,19 +121,11 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vmondardo&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=vmondardo&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vmondardo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub Trophies">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vmondardo/vmondardo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmondardo/vmondardo/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vmondardo/vmondardo/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 ---
