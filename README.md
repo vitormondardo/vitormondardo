@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Information%20Systems-UNIVILLE-2563EB?style=flat-square&logo=googlescholar&logoColor=white" alt="Information Systems">
   <img src="https://img.shields.io/badge/Full%20Stack-Data%20Engineer-16A34A?style=flat-square&logo=databricks&logoColor=white" alt="Full Stack Data Engineer">
   <img src="https://img.shields.io/badge/Software-Architect-7C3AED?style=flat-square&logo=blueprint&logoColor=white" alt="Software Architect">
-  <img src="https://komarev.com/ghpvc/?username=vmondardo&style=flat-square&color=0EA5E9" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=vitormondardo&style=flat-square&color=0EA5E9" alt="Profile Views">
 </p>
 
 ---
@@ -108,7 +108,7 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🧩 Termo Clone** | Engine completa de jogo de palavras com lógica POO avançada. | Java, Spring Boot, Vaadin | [View Demo](https://termogame.onrender.com/) |
-| **📚 Virtual Library** | Sistema de gestão bibliotecária com foco em persistência de dados. | Spring, Docker, PostgreSQL | [Repo](https://github.com/vmondardo/virtual-library) |
+| **📚 Virtual Library** | Sistema de gestão bibliotecária com foco em persistência de dados. | Spring, Docker, PostgreSQL | [Repo](https://github.com/vitormondardo/virtual-library) |
 | **🤖 WhatsApp Bot** | Chatbot multi-agente escalável com integração de IA. | Evolution API, Node.js, Python | [Repo](#) |
 
 ---
@@ -116,16 +116,16 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 ## 📈 My Coding Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vmondardo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmondardo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitormondardo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormondardo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vmondardo&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=vitormondardo&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vmondardo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitormondardo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub Trophies">
 </p>
 
 ---
@@ -141,7 +141,7 @@ Desenvolvendo o futuro através de dados e código sólido.
   <a href="https://instagram.com/mondardev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://github.com/vmondardo">
+  <a href="https://github.com/vitormondardo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
