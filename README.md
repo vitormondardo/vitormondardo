@@ -17,6 +17,32 @@
 
 ---
 
+## 📈 My Coding Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg">
+    <img src="assets/contributions-dark.svg" alt="Gráfico de contribuições animado">
+  </picture>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitormondardo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormondardo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vitormondardo&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitormondardo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub Trophies">
+</p>
+
+
+---
+
 ## 👨‍💻 Sobre Mim
 
 Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligência da **Engenharia de Dados**. Arquiteto de software focado em criar ecossistemas escaláveis que transformam dados brutos em decisões estratégicas.
@@ -112,31 +138,6 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 | **🐾 La Casa de Racion** | Site de agropecuária e pet shop com catálogo e pedidos via WhatsApp. | Next.js, TypeScript, Tailwind, Motion | [Repo](https://github.com/vitormondardo/la-casa-de-racion) · [Demo](https://la-casa-de-racion.vercel.app) |
 | **🧊 Landing 3D Scroll** | Landing page de produto com embalagem 3D protagonista, narrativa guiada pelo scroll e conversão via WhatsApp. | Next.js, React Three Fiber, GSAP, Tailwind | [Repo](https://github.com/vitormondardo/landing-3d-scroll) · [Demo](https://landing-3d-scroll.vercel.app) |
 | **📱 TCC – Retenção em Vídeo Vertical** | Pesquisa sobre a influência da retenção de tela vertical no comportamento de consumo, com análise de dados e machine learning. | Python, Pandas, Jupyter, Scikit-Learn | [Repo](https://github.com/vitormondardo/tcc-retention-vertical-video) |
-
----
-
-## 📈 My Coding Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg">
-    <img src="assets/contributions-dark.svg" alt="Gráfico de contribuições animado">
-  </picture>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitormondardo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormondardo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vitormondardo&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitormondardo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub Trophies">
-</p>
 
 ---
 
