@@ -105,9 +105,13 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🧩 Termo Clone** | Engine completa de jogo de palavras com lógica POO avançada. | Java, Spring Boot, Vaadin | [View Demo](https://termogame.onrender.com/) |
 | **📚 Virtual Library** | Sistema de gestão bibliotecária com foco em persistência de dados. | Spring, Docker, PostgreSQL | [Repo](https://github.com/vitormondardo/virtual-library) |
 | **🤖 WhatsApp Bot** | Chatbot multi-agente escalável com integração de IA. | Evolution API, Node.js, Python | [Repo](#) |
+| **🏢 Oberfritz Site** | Site institucional da Oberfritz: sistemas sob medida, automação e infraestrutura. | HTML, CSS, JS | [Repo](https://github.com/vitormondardo/oberfritz-site) · [Demo](https://oberfritz-site.vercel.app) |
+| **👓 Óculos InCasa** | Site de uma ótica com atendimento domiciliar, com óculos 3D animados pelo scroll. | Next.js, TypeScript, R3F, GSAP | [Repo](https://github.com/vitormondardo/oculos-in-casa) · [Demo](https://oculos-in-casa.vercel.app) |
+| **🐾 La Casa de Racion** | Site de agropecuária e pet shop com catálogo e pedidos via WhatsApp. | Next.js, TypeScript, Tailwind, Motion | [Repo](https://github.com/vitormondardo/la-casa-de-racion) · [Demo](https://la-casa-de-racion.vercel.app) |
+| **🧊 Landing 3D Scroll** | Landing page de produto com embalagem 3D protagonista, narrativa guiada pelo scroll e conversão via WhatsApp. | Next.js, React Three Fiber, GSAP, Tailwind | [Repo](https://github.com/vitormondardo/landing-3d-scroll) · [Demo](https://landing-3d-scroll.vercel.app) |
+| **📱 TCC – Retenção em Vídeo Vertical** | Pesquisa sobre a influência da retenção de tela vertical no comportamento de consumo, com análise de dados e machine learning. | Python, Pandas, Jupyter, Scikit-Learn | [Repo](https://github.com/vitormondardo/tcc-retention-vertical-video) |
 
 ---
 
