@@ -34,13 +34,13 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
     <td width="50%">
       <h3 align="center">🌐 Full Stack Development</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,nextjs,angular&theme=dark&perline=4" alt="Full Stack Tools">
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,angular&theme=dark&perline=4" alt="Full Stack Tools">
       </p>
     </td>
     <td width="50%">
       <h3 align="center">📊 Data Engineering & AI</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,postgres,supabase,tensorflow,pytorch,sklearn&theme=dark&perline=4" alt="Data and AI Tools">
+        <img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,pytorch,sklearn,claude&theme=dark&perline=4" alt="Data and AI Tools">
       </p>
     </td>
   </tr>
@@ -78,12 +78,10 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 ## ⚙️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,nextjs,angular,python,postgres,supabase,aws,docker,git,github,vscode&theme=dark&perline=8" alt="Main Stack">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,angular,python,postgres,aws,docker,git,github,vscode&theme=dark&perline=8" alt="Main Stack">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -114,6 +112,14 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 ---
 
 ## 📈 My Coding Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg">
+    <img src="assets/contributions-dark.svg" alt="Gráfico de contribuições animado">
+  </picture>
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitormondardo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
