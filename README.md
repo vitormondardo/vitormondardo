@@ -45,7 +45,7 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 
 * 🎓 **Bacharelado em Sistemas de Informação**
 * 🛠️ ** Arquiteturas de Software, Automações Inteligentes (Agentes IA) e stacks para Cloud**
-* 🚀 **[Oberfritz](https://oberfritz-site.vercel.app):** Tentando a minha própria startup! 😄 A ideia é simples: ajudar pequenos empreendedores a largar a planilha e o trabalho repetitivo, com sistemas sob medida, automações e chatbots com IA que fazem o trampo chato por eles.
+* 🚀 **[Oberfritz](https://oberfritz.com.br):** Tentando a minha própria startup! 😄 A ideia é simples: ajudar pequenos empreendedores a largar a planilha e o trabalho repetitivo, com sistemas sob medida, automações e chatbots com IA que fazem o trampo chato por eles.
 
 ---
 
