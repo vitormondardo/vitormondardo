@@ -45,7 +45,7 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 
 * 🎓 **Bacharelado em Sistemas de Informação**
 * 🛠️ ** Arquiteturas de Software, Automações Inteligentes (Agentes IA) e stacks para Cloud**
-* 🚀 **Oberfritz:** Minha empresa de automações e soluções digitais que resolvem problemas reais de empreendedores.
+* 🚀 **[Oberfritz](https://oberfritz-site.vercel.app):** Tentando a minha própria startup! 😄 A ideia é simples: ajudar pequenos empreendedores a largar a planilha e o trabalho repetitivo, com sistemas sob medida, automações e chatbots com IA que fazem o trampo chato por eles.
 
 ---
 
@@ -129,7 +129,6 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 | :--- | :--- | :--- | :--- |
 | **📚 Virtual Library** | Sistema de gestão bibliotecária com foco em persistência de dados. | Spring, Docker, PostgreSQL | [Repo](https://github.com/vitormondardo/virtual-library) |
 | **🤖 WhatsApp Bot** | Chatbot multi-agente escalável com integração de IA. | Evolution API, Node.js, Python | [Repo](#) |
-| **🏢 Oberfritz Site** | Site institucional da Oberfritz: sistemas sob medida, automação e infraestrutura. | HTML, CSS, JS | [Repo](https://github.com/vitormondardo/oberfritz-site) · [Demo](https://oberfritz-site.vercel.app) |
 | **👓 Óculos InCasa** | Site de uma ótica com atendimento domiciliar, com óculos 3D animados pelo scroll. | Next.js, TypeScript, R3F, GSAP | [Repo](https://github.com/vitormondardo/oculos-in-casa) · [Demo](https://oculos-in-casa.vercel.app) |
 | **🐾 La Casa de Racion** | Site de agropecuária e pet shop com catálogo e pedidos via WhatsApp. | Next.js, TypeScript, Tailwind, Motion | [Repo](https://github.com/vitormondardo/la-casa-de-racion) · [Demo](https://la-casa-de-racion.vercel.app) |
 | **🧊 Landing 3D Scroll** | Landing page de produto com embalagem 3D protagonista, narrativa guiada pelo scroll e conversão via WhatsApp. | Next.js, React Three Fiber, GSAP, Tailwind | [Repo](https://github.com/vitormondardo/landing-3d-scroll) · [Demo](https://landing-3d-scroll.vercel.app) |
