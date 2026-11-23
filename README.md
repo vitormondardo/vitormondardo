@@ -47,6 +47,10 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 * 🛠️ ** Arquiteturas de Software, Automações Inteligentes (Agentes IA) e stacks para Cloud**
 * 🚀 **[Oberfritz](https://oberfritz.com.br):** Tentando a minha própria startup! 😄 A ideia é simples: ajudar pequenos empreendedores a largar a planilha e o trabalho repetitivo, com sistemas sob medida, automações e chatbots com IA que fazem o trampo chato por eles.
 
+### 💼 Na prática: Weberhub
+
+No dia a dia, trabalho no **Weberhub**, uma plataforma de atendimento via **WhatsApp** (integrada à Meta Cloud API) que centraliza tickets, agenda de técnicos, peças e notificações em tempo real. No backend uso **Node.js, TypeScript e NestJS** em um monolito modular com **Clean Architecture** e bounded contexts, com **PostgreSQL** (TypeORM) para persistência e **RabbitMQ** para mensageria assíncrona entre os fluxos. No frontend, **React + Vite**, e tudo roda em **Docker**. Decisões de arquitetura ficam registradas em ADRs, pra evoluir sem perder o contexto. 🧩
+
 ---
 
 ## 🛠️ Tecnologias & Ecosystem
