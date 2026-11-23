@@ -127,7 +127,6 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **📚 Virtual Library** | Sistema de gestão bibliotecária com foco em persistência de dados. | Spring, Docker, PostgreSQL | [Repo](https://github.com/vitormondardo/virtual-library) |
 | **🤖 WhatsApp Bot** | Chatbot multi-agente escalável com integração de IA. | Evolution API, Node.js, Python | [Repo](#) |
 | **👓 Óculos InCasa** | Site de uma ótica com atendimento domiciliar, com óculos 3D animados pelo scroll. | Next.js, TypeScript, R3F, GSAP | [Repo](https://github.com/vitormondardo/oculos-in-casa) · [Demo](https://oculos-in-casa.vercel.app) |
 | **🐾 La Casa de Racion** | Site de agropecuária e pet shop com catálogo e pedidos via WhatsApp. | Next.js, TypeScript, Tailwind, Motion | [Repo](https://github.com/vitormondardo/la-casa-de-racion) · [Demo](https://la-casa-de-racion.vercel.app) |
