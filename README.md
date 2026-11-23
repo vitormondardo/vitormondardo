@@ -36,10 +36,6 @@
   <img src="https://streak-stats.demolab.com?user=vitormondardo&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitormondardo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" alt="GitHub Trophies">
-</p>
-
 
 ---
 
