@@ -151,8 +151,6 @@ Desenvolvendo o futuro através de dados e código sólido.
   </a>
 </p>
 
-> *"In God we trust, all others must bring data."* — W. Edwards Deming
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:7C3AED&height=130&section=footer" alt="Footer">
 </p>
