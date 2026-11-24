@@ -53,6 +53,7 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 ## 🎓 Certificações & Formação
 
 * 🎓 **Bacharelado em Sistemas de Informação** — Universidade da Região de Joinville (**Univille**)
+* 📜 **Claude Code 101** — Anthropic Academy · [Verificar certificado](https://verify.skilljar.com/c/uipi5mauu5un)
 
 ---
 
