@@ -70,7 +70,7 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
     <td width="50%">
       <h3 align="center">🌐 Full Stack Development</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,angular&theme=dark&perline=4" alt="Full Stack Tools">
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs&theme=dark&perline=4" alt="Full Stack Tools">
       </p>
     </td>
     <td width="50%">
@@ -102,7 +102,6 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
     <td colspan="2" width="100%" align="center">
       <h3 align="center">🌩️ Cloud Providers</h3>
       <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-        <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS">
         <img src="https://img.shields.io/badge/-Oracle-1D232A?style=for-the-badge&logo=oracle&logoColor=F80000" height="48" alt="Oracle Cloud" style="border-radius: 10px;">
         <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure">
       </p>
@@ -115,7 +114,7 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 ## ⚙️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,angular,python,postgres,aws,docker,git,github,vscode&theme=dark&perline=8" alt="Main Stack">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,python,postgres,docker,git,github,vscode&theme=dark&perline=8" alt="Main Stack">
 </p>
 
 <p align="center">
@@ -123,7 +122,6 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </p>
 
 <p align="center">
@@ -131,7 +129,6 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
