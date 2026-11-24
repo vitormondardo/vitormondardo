@@ -78,7 +78,8 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
     <td width="50%">
       <h3 align="center">☁️ Infrastructure & Tools</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,netlify,vercel&theme=dark&perline=4" alt="Infrastructure Tools">
+        <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,netlify,vercel&theme=dark&perline=4" alt="Infrastructure Tools">
+        <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
       </p>
     </td>
     <td width="50%">
