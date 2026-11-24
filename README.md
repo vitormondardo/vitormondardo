@@ -47,6 +47,12 @@ Especialista em unir o mundo do **Desenvolvimento Full Stack** com a inteligênc
 * 🛠️ **Arquiteturas de Software, Automações Inteligentes (Agentes IA) e stacks para Cloud**
 * 🚀 **[Oberfritz](https://oberfritz.com.br):** Tentando a minha própria startup! 😄 A ideia é simples: ajudar pequenos empreendedores a largar a planilha e o trabalho repetitivo, com sistemas sob medida, automações e chatbots com IA que fazem o trampo chato por eles.
 * 💼 **Experiência — Desenvolvedor de Software e Analista de Dados:** atuo no desenvolvimento Full Stack de uma plataforma de atendimento via **WhatsApp** (Meta Cloud API) que centraliza tickets, agenda de técnicos, peças e notificações em tempo real. Back-end em **Node.js, TypeScript e NestJS** (monolito modular com **Clean Architecture** e bounded contexts), **PostgreSQL** com TypeORM e **RabbitMQ** para mensageria assíncrona; front-end em **React + Vite**; ambiente containerizado com **Docker**; decisões de arquitetura documentadas em ADRs.
+  * **Back-end:** Node.js, TypeScript, NestJS, TypeORM, Clean Architecture, mensageria com RabbitMQ
+  * **Front-end:** React, Vite, Next.js, Angular
+  * **Dados:** PostgreSQL, Python, Pandas, Scikit-Learn
+  * **Cloud & Infra:** AWS, Oracle Cloud, Azure, Terraform, Docker
+  * **CI/CD & Versionamento:** Git, GitHub, GitHub Actions (lint, typecheck, testes e build)
+  * **IA & Automação:** Claude, OpenAI Codex, Ollama, Prompt Engineering, Agentes IA
 
 ---
 
